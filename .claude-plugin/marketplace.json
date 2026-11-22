@@ -1,0 +1,8 @@
+{
+  "name": "kit-pour-youtube-depot",
+  "owner": { "name": "Supra-skills-mdd7", "url": "https://github.com/Supra-skills-mdd7" },
+  "metadata": { "description": "Kit non officiel pour préparer scripts, titres, chapitres et Shorts destinés à YouTube." },
+  "plugins": [
+    { "name": "kit-pour-youtube", "source": "./", "description": "Kit non officiel pour préparer scripts, titres, chapitres et Shorts destinés à YouTube." }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kit-pour-youtube",
+  "version": "1.0.0",
+  "description": "Kit non officiel pour préparer scripts, titres, chapitres et Shorts destinés à YouTube.",
+  "author": { "name": "Supra-skills-mdd7", "url": "https://github.com/Supra-skills-mdd7" },
+  "homepage": "https://github.com/Supra-skills-mdd7/kit-pour-youtube",
+  "repository": "https://github.com/Supra-skills-mdd7/kit-pour-youtube",
+  "license": "MIT",
+  "keywords": ["youtube", "shorts", "francais", "createur"]
+}
